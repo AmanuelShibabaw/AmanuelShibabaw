@@ -62,7 +62,7 @@ I am a passionate and detail-oriented **Full Stack Web Developer** who thrives o
 
 - 🖥️ **Portfolio Website**  
   Responsive portfolio showcasing my skills, projects, and background. Built with vanilla HTML, CSS, and JavaScript.  
-  🔗 [Visit Website](https://zeamanshibabaw.vercel.app)
+  🔗 [Visit Website](https://amanuel-shibaba.vercel.app)
 
 ---
 
@@ -90,7 +90,7 @@ I am a passionate and detail-oriented **Full Stack Web Developer** who thrives o
 
 [![Email](https://img.shields.io/badge/Email-grey?style=flat-square&logo=gmail&logoColor=white)](mailto:amanuelshibabaw915@gmail.com)  
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Orthodox_Christian_jesus_our_God)  
-[![Website](https://img.shields.io/badge/Website-000?style=flat-square&logo=google-chrome&logoColor=white)](https://zeamanshibabaw.vercel.app)
+[![Website](https://img.shields.io/badge/Website-000?style=flat-square&logo=google-chrome&logoColor=white)](https://amanuel-shibabaw.vercel.app)
 
 ---
 
