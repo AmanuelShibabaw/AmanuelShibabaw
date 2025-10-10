@@ -62,7 +62,7 @@ I am a passionate and detail-oriented **Full Stack Web Developer** who thrives o
 
 - 🖥️ **Portfolio Website**  
   Responsive portfolio showcasing my skills, projects, and background. Built with vanilla HTML, CSS, and JavaScript.  
-  🔗 [Visit Website](https://amanuel-shibaba.vercel.app)
+  🔗 [Visit Website](https://amanuel-shibabaw.vercel.app)
 
 ---
 
