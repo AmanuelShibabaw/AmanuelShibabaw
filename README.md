@@ -61,7 +61,7 @@ I am a passionate and detail-oriented **Full Stack Web Developer** who thrives o
   🔗 [View on GitHub](https://github.com/amanuelshibabaw/eeu-complaint-management)
 
 - 🖥️ **Portfolio Website**  
-  Responsive portfolio showcasing my skills, projects, and background. Built with vanilla HTML, CSS, and JavaScript.  
+  Responsive portfolio showcasing my skills, projects, and background. Built with MERN.  
   🔗 [Visit Website](https://amanuel-shibabaw.vercel.app)
 
 ---
