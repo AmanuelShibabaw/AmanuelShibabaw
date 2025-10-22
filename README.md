@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Full Stack Web Developer | Software Engineer | Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&color=0e75b6&width=650&lines=Passionate+about+full-stack+Web+Development;Driven+by+Code+%F0%9F%92%BB;Let%E2%80%99s+Build+Something+Great+Together+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&color=0e75b6&width=650&lines=Passionate+about+Full+Stack+Web+Development;Driven+by+Code+💻;Let’s+Build+Something+Great+Together+🚀" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -15,10 +15,10 @@
 
 I am a passionate and detail-oriented **Full Stack Web Developer** who thrives on turning complex problems into clean, scalable solutions. I enjoy building both client-facing interfaces and backend systems using modern web technologies.
 
-- 🌱 Continuously learning and improving my development skills.
-- 🔭 Currently working on: **Full-Stack Projects**, **AI-integrated systems**, and **modernizing legacy apps**.
-- 💬 Ask me about **JavaScript**, **Node.js**, **APIs**, or **Database Design**.
-- 🎯 Goal: Become a lead developer who builds impactful and inclusive software.
+- 🌱 Continuously learning and improving my development skills.  
+- 🔭 Currently working on: **Full-Stack Projects**, **AI-integrated systems**, and **modernizing legacy apps**.  
+- 💬 Ask me about **JavaScript**, **Node.js**, **APIs**, or **Database Design**.  
+- 🎯 Goal: Become a lead developer who builds impactful and inclusive software.  
 - ⚡ Fun Fact: I treat coding like solving puzzles—it’s addictive and satisfying!
 
 ---
@@ -69,11 +69,11 @@ I am a passionate and detail-oriented **Full Stack Web Developer** who thrives o
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amanuelshibabaw&show_icons=true&theme=default" alt="Amanuel's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amanuelshibabaw&show_icons=true&theme=default&include_all_commits=true&count_private=true&cache_seconds=1800" alt="Amanuel's GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amanuelshibabaw&theme=default" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=amanuelshibabaw&theme=default&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amanuelshibabaw&theme=github-compact" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amanuelshibabaw&theme=github-compact&area=true&hide_border=false" alt="Contribution Graph" />
 </p>
 
 ---
@@ -81,7 +81,7 @@ I am a passionate and detail-oriented **Full Stack Web Developer** who thrives o
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amanuelshibabaw&theme=flat&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=amanuelshibabaw&theme=flat&column=7&no-frame=false&margin-w=5" alt="GitHub Trophies" />
 </p>
 
 ---
