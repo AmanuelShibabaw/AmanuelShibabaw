@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amanuel Shibabaw</h1>
 <h3 align="center">🚀 Full Stack Web Developer | Software Engineer | Tech Enthusiast</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&color=0e75b6&width=650&lines=Passionate+about+Full+Stack+Web+Development;Driven+by+Code+💻;Let’s+Build+Something+Great+Together+🚀" alt="Typing SVG" />
-</p>
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&color=0e75b6&width=650&lines=Passionate+about+full-stack+Web+Development;Driven+by+Code+%F0%9F%92%BB;Let%E2%80%99s+Build+Something+Great+Together+%F0%9F%9A%80" alt="Typing SVG" /> </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=amanuelshibabaw&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
