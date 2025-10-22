@@ -73,7 +73,7 @@ I am a passionate and detail-oriented **Full Stack Web Developer** who thrives o
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amanuelshibabaw&theme=default&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amanuelshibabaw&theme=github-compact" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=amanuelshibabaw&theme=github-compact&area=true&hide_border=false&timestamp=${new Date().getTime()}" alt="Contribution Graph" />
 </p>
 
 ---
