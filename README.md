@@ -72,8 +72,10 @@ I am a passionate and detail-oriented **Full Stack Web Developer** who thrives o
   <br/>
 
   <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=amanuelshibabaw&theme=default&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-  <br/>
+  <!-- Streak Stats -->
+<img src="https://streak-stats.vercel.app?user=amanuelshibabaw&theme=default&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&mode=daily&locale=en&timezone=Africa/Addis_Ababa" alt="GitHub Streak" />
+<br/>
+
 
   <!-- Contribution Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=amanuelshibabaw&theme=github-compact&area=true&hide_border=false&custom_title=Contribution%20Graph" alt="Contribution Graph" />
