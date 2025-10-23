@@ -67,12 +67,18 @@ I am a passionate and detail-oriented **Full Stack Web Developer** who thrives o
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amanuelshibabaw&show_icons=true&theme=default&include_all_commits=true&count_private=true&cache_seconds=1800" alt="Amanuel's GitHub Stats" />
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=amanuelshibabaw&show_icons=true&theme=default&include_all_commits=true&count_private=true&rank_icon=github&hide_border=false" alt="Amanuel's GitHub Stats" />
   <br/>
+
+  <!-- Streak Stats -->
   <img src="https://streak-stats.demolab.com?user=amanuelshibabaw&theme=default&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amanuelshibabaw&theme=github-compact&area=true&hide_border=false" alt="Contribution Graph" />
+
+  <!-- Contribution Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amanuelshibabaw&theme=github-compact&area=true&hide_border=false&custom_title=Contribution%20Graph" alt="Contribution Graph" />
 </p>
+
 
 ---
 
