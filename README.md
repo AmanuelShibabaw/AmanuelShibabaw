@@ -69,7 +69,7 @@ I am a passionate and detail-oriented **Full Stack Web Developer** who thrives o
 <p align="center">
   <!-- GitHub Stats -->
  <img 
-    src="https://github-readme-stats.vercel.app/api?username=amanuelshibabaw&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=false&cache_seconds=1800"
+    src="https://github-readme-stats.vercel.app/api?username=amanuelshibabaw&show_icons=true&rank_icon=github&hide_border=false&cache_seconds=1800"
     alt="Amanuel's GitHub Stats"
   />
   <br/>
